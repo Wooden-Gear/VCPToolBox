@@ -175,3 +175,6 @@ image/fluxgen/
 **/.DS_Store
 .DS_Store?
 /.obsidian
+
+# 忽略 RAG 向量数据库
+VectorStore/
